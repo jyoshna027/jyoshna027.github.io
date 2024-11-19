@@ -6,8 +6,8 @@ info:
     You can use this documentation to send requests to the servers too. This is written using OAS.
   termsOfService: https://www.bhimupi.org.in/terms-conditions
   contact:
-    name: Ankit Sahay
-    email: ankit@thebrokenapp.in
+    name: Jyoshna Reddy
+    email: jyoshna@thebrokenapp.in
 servers:
   - url: http://127.0.0.1:5000
     description: Development Server
